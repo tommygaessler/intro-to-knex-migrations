@@ -6,3 +6,4 @@ module.exports = {
     connection: 'postgres://localhost/trackify_dev'
   }
 };
+// ./node_modules/.bin/knex init
